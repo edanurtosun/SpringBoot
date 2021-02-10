@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS HAVAYOLU;
+CREATE TABLE HAVAYOLU(
+                      id INT AUTO_INCREMENT  PRIMARY KEY,
+                      name VARCHAR(50) NOT NULL
+
+);
